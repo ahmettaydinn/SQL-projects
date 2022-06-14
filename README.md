@@ -1,2 +1,2 @@
-# git_practice_two
 # SQL-projects
+## Manipulating the projects based on the data
