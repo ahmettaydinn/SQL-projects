@@ -1,4 +1,4 @@
-# SQL Project
+## SQL Project
 <h4>Visualization of the Database🖼️</h4>
 <br>
 <img src='chinook-data/database.jpg' />
@@ -19,7 +19,7 @@ In this project I mastered SQL programming language.We used chinook database. Yo
     |-- README.md
 ```    
 <hr>
-## Used in this project
+<h3>Used in this project</h3>
 
 👉SQL Comparison Operators, SQL Functions, SQL Conditions, SQL Tables and Views,etc.
 
