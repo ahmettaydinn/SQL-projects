@@ -26,3 +26,8 @@ In this project I mastered SQL programming language.We used chinook database. Yo
 👉 SQL Aliases,display, SQL Keys, Constraints and Indexes, SQL Data Types, s etc.
 
 👉 Github - Git commands (push, pull, commit, add etc.)
+<hr>
+<h3>How to Use the Project</h3>
+<span>First download : </span><a src='https://sqlitebrowser.org/dl/'>DB Browser for SQLite</a>
+<span>Second use this database : </span><a src='https://github.com/BAVI-BOOP/SQL-projects/blob/main/chinook-data/chinook.db'>DB Browser for SQLite</a>
+
