@@ -1,5 +1,6 @@
 # SQL Project
-<br>Visualization of the Database🖼️
+<br>
+<h4>Visualization of the Database🖼️</h4>
 <br>
 <img src='chinook-data/database.jpg' />
 Check the code ➡️ <a href="https://github.com/BAVI-BOOP/SQL-projects/blob/main/chinook-data/main.sql">Queries</a>
