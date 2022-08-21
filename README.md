@@ -10,7 +10,7 @@
 ## Table of contents
 
   - [Overview](#overview)
-  - [Database Graph](#Database-Graph)
+  - [Database Graph](#database-graph)
   - [Project Skeleton](#project-skeleton)
   - [Links](#links)
   - [Built with](#built-with)
